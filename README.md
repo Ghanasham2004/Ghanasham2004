@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name](https://github.com/Ghanasham2004) 👋
+# Hi there, I'm [Ghansham Irashetti](https://github.com/Ghanasham2004) 👋
 
 I'm a passionate software developer with a knack for crafting elegant and efficient code. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
