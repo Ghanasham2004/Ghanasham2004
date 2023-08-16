@@ -36,7 +36,7 @@ I believe in the power of constant learning and improvement. Currently, I'm expa
 
 ## 🛠️ Tools & Technologies
 
-- Frontend: React JS, Tailwind CSS, Bootstrap, Vanilla JS, HTML, CSS 
+- Frontend: React JS, Bootstrap, Vanilla JS, HTML, CSS 
 - Backend: Java, Python, Express JS, Node JS
 - Version Control: Git
 - IDEs: VS Code
