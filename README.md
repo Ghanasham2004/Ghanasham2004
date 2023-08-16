@@ -51,7 +51,14 @@ I'm always eager to connect with fellow developers, share ideas, and collaborate
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ghanasham2004&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasham2004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<table width="100%">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ghanasham2004&show_icons=true&hide_border=true" /> 
+    </td>
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasham2004&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+    </td>
+  </tr>
+<table>
 
