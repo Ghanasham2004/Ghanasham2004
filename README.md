@@ -25,8 +25,8 @@ Hi there, I'm Ghanasham 👋, I'm a passionate B.Tech student majoring in Comput
 
 ## 👨‍💻 Tech Enthusiast & Full-stack Developer
 
-- 🌐 Skilled in web technologies: HTML, CSS, JavaScript, and React.
-- 💻 Proficient in multiple programming languages: Python, Java, PHP, VB.NET, and more.
+- 🌐 Skilled in web technologies and frameworks like React, Express, Node and more.
+- 💻 Proficient in Java and Python programming languages.
 - 🎨 Love crafting responsive and visually appealing UIs.
 - ⚙️ Enjoy diving into backend logic to bring projects to life.
 
@@ -36,10 +36,10 @@ I believe in the power of constant learning and improvement. Currently, I'm expa
 
 ## 🛠️ Tools & Technologies
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Python, Java, PHP, VB.NET
+- Frontend: React JS, Tailwind CSS, Bootstrap, Vanilla JS, HTML, CSS 
+- Backend: Java, Python, Express JS, Node JS
 - Version Control: Git
-- IDEs: VS Code, IntelliJ IDEA
+- IDEs: VS Code
 
 ## 🌟 Open Source Contributor
 
