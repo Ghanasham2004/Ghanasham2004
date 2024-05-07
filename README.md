@@ -62,7 +62,7 @@ I'm always eager to connect with fellow developers, share ideas, and collaborate
 -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasham2004&layout=compact&theme=vision-friendly-dark)](https://github.com/Ghanasham2004/github-readme-stats)-->
 
-<p>           
+<p width="100%">           
 <img src="https://github-readme-stats.vercel.app/api?username=Ghanasham2004&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="200em" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasham2004&size_weight=1&count_weight=0&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasham2004&size_weight=1&count_weight=0&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em" width="40%" />
 </p>
