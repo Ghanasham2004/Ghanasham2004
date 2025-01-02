@@ -55,8 +55,11 @@ I'm always eager to connect with fellow developers, share ideas, and collaborate
 **LinkedIn - https://www.linkedin.com/in/ghansham-irshetti/** <br>
 **Gmail - [irashettig@gmail.com](mailto:irashettig@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
 
+## 🏆 Leetcode Stats 🏆
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ghanasham2004?theme=dark)
+
 ## 🏆 My GitHub Stats 🏆
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ghanasham2004&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Ghanasham2004/github-profile-trophy)
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ghanasham2004&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Ghanasham2004/github-profile-trophy) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasham2004&layout=compact&theme=vision-friendly-dark)](https://github.com/Ghanasham2004/github-readme-stats)
