@@ -54,9 +54,9 @@ I'm an advocate for open source software and love contributing to projects that 
 I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on: <br>
 **LinkedIn - https://www.linkedin.com/in/ghansham-irshetti/** <br>
 **Gmail - [irashettig@gmail.com](mailto:irashettig@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
-
+<!--
 ## 🏆 Leetcode Stats 🏆
-![Leetcode Stats](https://leetcard.jacoblin.cool/Ghanasham2004?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ghanasham2004?theme=dark)-->
 
 ## 🏆 My GitHub Stats 🏆
 <!--
