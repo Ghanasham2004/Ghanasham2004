@@ -1,65 +1,196 @@
-<div id="header" align="center">
-  <div id="badges">
-<!-- <a href="mailto:irashettig@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>     -->
-    <a href="https://www.linkedin.com/in/ghansham-irshetti" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/Ghanasham2004" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCgwQpCgIctzeGCkJ88xHRxA">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://leetcode.com/Ghanasham2004">
-      <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-    </a>
-  </div>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Ghanasham2004&style=flat-round&color=red" alt=""/>
+<div align="center">
+
+# 👋 Hi, I'm Ghanasham Irshetti
+
+### Full Stack Developer • AI Workflow Engineer • MERN Stack Developer • Building Scalable SaaS Products
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Development+Engineer;Full+Stack+Developer;AI+Workflow+%26+Cloud+Enthusiast;Building+Scalable+Web+Applications;MERN+%7C+AWS+%7C+GCP+%7C+AI+Agents" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ghansham-irshetti">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:irashettig@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Ghanasham2004">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ghanasham2004">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://officialcodecrafters.in">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ghanasham2004&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+
 </div>
 
-### Hi there 👋
+---
 
-## 👨‍💻 About Me :
+# 🚀 About Me
 
-I'm Ghanasham ( Sham ) 👋, I'm a passionate B.Tech student in Computer Science and Engineering, with a deep love for both web and software development. I thrive on creating impactful and user-centered digital experiences that combine form and function.
+💻 Passionate Full Stack Developer and AI enthusiast from Maharashtra, India, focused on building scalable, production-ready applications and intelligent digital systems.
 
-## 👨‍💻 Tech Enthusiast & Full-Stack Developer
+🎓 Pursuing B.Tech in Computer Science & Engineering at **N. K. Orchid College of Engineering & Technology, Solapur**.
 
-- ✨ Delved Deep into Data Structures and Algorithms with a refined understanding, transforming complexity into elegant solutions
-- 🌐 Skilled in web technologies and frameworks like React, Express, Node, Next JS and more.
-- 💻 Proficient in Java and Python programming languages.
-- 🎨 Love crafting responsive and visually appealing UIs.
-- ⚙️ Enjoy diving into backend logic to bring projects to life.
+🔥 Currently working as an **SDE Intern @ Uptiq.ai**, contributing to enterprise onboarding systems, OCR workflows, and scalable product engineering for financial institutions. :contentReference[oaicite:0]{index=0}
 
-## 🚀 Always Learning & Exploring
+🏆 Hackathon Winner, National-Level Web Design Champion, GDG Campus Co-Organizer, and builder of real-world SaaS & AI-powered platforms.
 
-I believe in the power of constant learning and improvement. Currently, I'm expanding my horizons by exploring artificial intelligence and machine learning to create intelligent applications.
+---
 
-## 🛠️ Tools & Technologies
+# 🎯 2026 Focus
 
-- Frontend: React JS, Vanilla JS, HTML, CSS.
-- Backend: Java, Python, Express JS, Node JS.
-- Version Control: Git, GitHub.
-- IDEs: Visual Studio Code, Net-Beans.
+- 🚀 Building scalable SaaS & AI-powered systems
+- 🤖 Exploring AI Agents, RAG & workflow automation
+- ☁️ Learning advanced Cloud & DevOps engineering
+- 🧠 Improving DSA & System Design skills
+- 🌍 Contributing to developer communities & open source
 
-<!-- ## 🌟 Open Source Contributor
+---
 
-I'm an advocate for open source software and love contributing to projects that make a difference. You can often find me collaborating with like-minded developers to improve the tools we all rely on. -->
+# 🛠️ Tech Stack
 
-## 📫 Let's Connect
+## 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php" />
+</p>
 
-I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on: <br>
-**LinkedIn - https://www.linkedin.com/in/ghansham-irshetti/** <br>
-**Gmail - [irashettig@gmail.com](mailto:irashettig@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
-<!--
-## 🏆 Leetcode Stats 🏆
-![Leetcode Stats](https://leetcard.jacoblin.cool/Ghanasham2004?theme=dark)-->
+## ⚛️ Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux,vite" />
+</p>
 
-## 🏆 My GitHub Stats 🏆
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ghanasham2004&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Ghanasham2004/github-profile-trophy) -->
+## ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasham2004&layout=compact&theme=vision-friendly-dark)](https://github.com/Ghanasham2004/github-readme-stats)
+## ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,postman,vscode" />
+</p>
+
+## 🧩 Tools & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma,figma" />
+</p>
+
+- Zustand • Redux • BullMQ • WebSockets • CI/CD • GitHub Actions • Playwright • Cypress • Grafana • Prometheus
+
+---
+
+# 💼 Experience
+
+## 🏢 Software Development Engineer Intern — Uptiq.ai
+
+- Building scalable onboarding and workflow systems for enterprise financial institutions
+- Working on OCR pipelines, KYC workflows, and real-time application systems
+- Improving workflow automation, user experience, and product reliability
+- Contributing to production-grade frontend and backend engineering systems
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Official CodeCrafters
+Scalable EdTech SaaS platform focused on project-based learning, real-time coding practice, gamification, and developer growth.
+
+**Tech Stack:** MERN, Next.js, PostgreSQL, JWT, Monaco Editor, AWS
+
+🔗 https://officialcodecrafters.in
+
+---
+
+## 🏥 HealthLinker.AI
+AI-powered healthcare management platform enabling real-time patient-doctor workflows, telemedicine, multilingual AI assistance, and digital health record management.
+
+**Tech Stack:** MERN, AI/ML, NLP, WebSockets, JWT
+
+🏆 HackXSpirit Winner • Avishkar Gold Medal Winner • DIPEX Finalist
+
+---
+
+## 📄 ATS & AI Hiring Platform
+Smart recruitment automation platform with resume parsing, candidate analytics, workflow management, and AI-assisted hiring processes.
+
+**Tech Stack:** React.js, Node.js, MongoDB, Express.js
+
+---
+
+## 🛡️ GateKeeper
+Role-based smart campus management system for visitor tracking, secure access control, and real-time administrative monitoring.
+
+**Tech Stack:** MERN Stack, JWT, Role-Based Access Control
+
+---
+
+# 🏆 Achievements & Recognition
+- 🥇 1st Winner — HackXSpirit 2k24 National Level Hackathon (AI Healthcare Innovation)
+- 🥇 Avishkar 2025 Zonal Winner & Gold Medalist — Medicine & Pharmacy Category
+- 🚀 DIPEX 2025 Finalist for HealthLinker.AI Healthcare Platform
+- 🥇 1st Place — Kalpak 2k24 National Startup Idea Competition
+- 🏅 2× National-Level Web Design Competition Winner
+- 🧠 Solved 600+ DSA & Competitive Programming Problems
+- 🎖️ Earned LeetCode 365 Days Badge 2025
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanasham2004&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 🧠 Problem Solving
+<div align="center">
+<img height="240px" src="https://leetcard.jacoblin.cool/Ghanasham2004?theme=dark&font=Poppins&ext=contest" />
+</div>
+
+---
+
+# 🌍 Leadership & Community
+
+- 🎤 GDG Campus Co-Organizer
+- 👨‍🏫 Technical Head — CSESA NKOCET
+- 🚀 Builder — Official CodeCrafters
+- 🌟 Unstop Campus Ambassador
+- 💼 Freelancer & Product Developer
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ghansham-irshetti">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:irashettig@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://officialcodecrafters.in">
+  <img src="https://img.shields.io/badge/Website-Official%20CodeCrafters-111827?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building scalable digital products with Full Stack Engineering, AI, and Cloud Technologies.
+
+</div>
