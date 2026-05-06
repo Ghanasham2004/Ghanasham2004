@@ -58,34 +58,17 @@
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-## 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,aws,gcp,docker,git,github,linux,vscode" />
 </p>
 
-## ⚛️ Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux,vite" />
-</p>
-
-## ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
-</p>
-
-## ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,postman,vscode" />
-</p>
-
-## 🧩 Tools & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma,figma" />
-</p>
-
-- Zustand • Redux • BullMQ • WebSockets • CI/CD • GitHub Actions • Playwright • Cypress • Grafana • Prometheus
+- **Frontend:** React.js, Vue.js, Next.js, Tailwind CSS, Redux, Redux-Toolkit, Zustand
+- **Backend:** Node.js, Express.js, Hono, REST APIs, BullMQ, WebSockets, Flask
+- **Cloud:** AWS (EC2, S3, Lambda), GCP, Docker, CI/CD
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Programming Languages:** JavaScript, TypeScript, Java, Python, C++, PHP
 
 ---
 
