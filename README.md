@@ -42,7 +42,7 @@
 
 🎓 Pursuing B.Tech in Computer Science & Engineering at **N. K. Orchid College of Engineering & Technology, Solapur**.
 
-🔥 Currently working as an **SDE Intern @ Uptiq.ai**, contributing to enterprise onboarding systems, OCR workflows, and scalable product engineering for financial institutions. :contentReference[oaicite:0]{index=0}
+🔥 Currently working as an **SDE Intern @ Uptiq.ai**, contributing to enterprise onboarding systems, OCR workflows, and scalable product engineering for financial institutions.
 
 🏆 Hackathon Winner, National-Level Web Design Champion, GDG Campus Co-Organizer, and builder of real-world SaaS & AI-powered platforms.
 
